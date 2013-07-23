@@ -1,0 +1,4 @@
+smartlite
+=========
+
+SmartLITE - Campus Challenge
